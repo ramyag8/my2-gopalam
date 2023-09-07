@@ -32,3 +32,20 @@ The four cities which i would like everyone to visit.They are located in india.
 | Soccer          | increase muscle Strength |10 hours|
 | Basketball      | fun game and good Excersice |5 hours|
 | Baseball        | fun game and Team Sport |4 hours|
+
+***
+# famous Quotes
+
+>The journey of a thousand miles begins with one step
+
+-- <cite>*Lao Tzu*</cite>
+
+>That which does not kill us makes us stronger.
+
+-- <cite>*Friedrich Nietzsche*</cite>
+
+>Tough times never last but tough people do.
+
+-- <cite>*Robert H. Schuller*</cite>
+
+***
