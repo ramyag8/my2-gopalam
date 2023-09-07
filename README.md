@@ -18,3 +18,5 @@ Section with an ordered list.
 * Fish Fry
 * Hyderbad Chiken Biryani
 * Mutton Biryani
+
+**[Link to Mystats](MyStats.md)**
