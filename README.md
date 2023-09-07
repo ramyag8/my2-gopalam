@@ -20,3 +20,15 @@ Section with an ordered list.
 * Mutton Biryani
 
 **[Link to Mystats](MyStats.md)**
+
+***
+# famous cities
+
+The four cities which i would like everyone to visit.They are located in india.
+
+| Name of The Sport | Reason | Time|
+|:--------------:  | :-------------:|:---:|
+| Cricket         | Will be a good Excersice   |5 hours 30|
+| Soccer          | increase muscle Strength |10 hours|
+| Basketball      | fun game and good Excersice |5 hours|
+| Baseball        | fun game and Team Sport |4 hours|
